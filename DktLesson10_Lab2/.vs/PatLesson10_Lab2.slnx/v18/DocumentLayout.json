@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\LTWeb_DKT\\DKTLTWeb\\PatLesson10_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\MyLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Models\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\Footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\MyLayout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:52:39.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:51:11.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:51:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Models\\Gender.cs",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Models\\Gender.cs",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:51:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:51:04.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:51:03.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\N\u0103m 3 K\u1EF3 1\\L\u1EADp Tr\u00ECnh Web\\LTWeb_PAT\\Lesson10_Lab2\\Lesson10_Lab2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:46:04.125Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

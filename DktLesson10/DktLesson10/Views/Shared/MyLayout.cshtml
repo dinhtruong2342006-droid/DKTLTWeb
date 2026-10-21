@@ -1,0 +1,96 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Avery Chen | Student portfolio — Fieldnotes Student</title>
+    <meta name="description" content="A student portfolio with project case studies, coursework, experience and a readable résumé.">
+    <meta name="robots" content="noindex,follow">
+
+    <title>@ViewData["Title"] - Management System</title>
+    <!-- Đường dẫn CSS được cập nhật theo thư mục wwwroot -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+
+    <!-- Script JS được cập nhật theo thư mục wwwroot -->
+    <script src="~/js/app.js" defer></script>
+</head>
+<body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+        <div class="container header-row">
+            <partial name="TopNav" />
+            <a class="brand" href="~/index.html">
+                <span class="brand-mark" aria-hidden="true">a</span>Avery Chen
+                <span class="visually-hidden"> — home</span>
+            </a>
+            <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false">Menu</button>
+            <nav id="site-nav" class="site-nav" aria-label="Main navigation">
+                <a href="~/index.html#work" aria-current="page">Work</a>
+                <a href="~/index.html#about">About</a>
+                <a href="~/resume.html">Résumé</a>
+                <a class="contact-link" href="~/index.html#contact">Let’s talk <span aria-hidden="true">↗</span></a>
+            </nav>
+        </div>
+    </header>
+    <main id="main">
+        <div class="container">
+            <section class="hero">
+                <div class="row align-items-center g-lg-5">
+                    <div class="col-lg-8">
+                        <span class="availability">Open to summer 2027 internships</span>
+                        <h1>Curious mind.<br>Work <em>in progress.</em></h1>
+                        <p class="hero-intro">Hi, I’m Avery — a design student who likes turning everyday questions into useful, thoughtful things.</p>
+                        <div class="hero-actions">
+                            <a class="button" href="#work">Explore my work <span aria-hidden="true">↓</span></a>
+                            <a class="button secondary" href="resume.html">Meet the person behind it <span aria-hidden="true">↗</span></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <aside class="notebook" aria-label="A few things about me">
+                            <div class="notebook-top"><span>FIELD NOTES</span><span>VOL. 01 / 2026</span></div>
+                            <h2>Always asking<br>“what if?”</h2>
+                            <div class="note-lines"><span>↳ Currently: studying interaction design</span><span>↳ Learning: to ask better questions</span><span>↳ Outside class: sketchbooks &amp; long walks</span></div>
+                            <span class="stamp">MADE WITH<br>CURIOSITY<br>✳</span>
+                        </aside>
+                    </div>
+                </div>
+            </section>
+            <section class="section" id="work">
+                <div class="section-head">
+                    <h2 class="section-title"><span class="section-number">01 / SELECTED PROJECTS</span>A few things<br>I’ve <em>worked on.</em></h2>
+                    <p>Small projects, real questions.<br>Here’s the thinking behind the final screen.</p>
+                </div>
+                <div class="filters" aria-label="Filter projects" hidden>
+                    <button type="button" data-filter="all" aria-pressed="true">All work</button>
+                    <button type="button" data-filter="coursework" aria-pressed="false">Coursework</button>
+                    <button type="button" data-filter="personal" aria-pressed="false">Personal project</button>
+                </div>
+                <p id="project-status" class="visually-hidden-status" role="status" aria-live="polite"></p>
+                <div class="row g-4">
+                    <article class="col-md-6 project-card" data-project="coursework">
+                        <a class="project-image" href="campus-path.html"><img src="~/images/wayfinding.svg" width="900" height="590" alt="Campus Path concept"></a>
+                        <p class="project-meta">Coursework · Interaction design · 2026</p>
+                        <h3><a href="campus-path.html">Finding your way, minus the guesswork <span aria-hidden="true">↗</span></a></h3>
+                        <p>A campus wayfinding concept that puts the next decision first.</p>
+                    </article>
+                    <article class="col-md-6 project-card" data-project="personal">
+                        <a class="project-image" href="pantry-notes.html"><img src="~/images/pantry.svg" width="900" height="590" alt="Pantry Notes concept" loading="lazy"></a>
+                        <p class="project-meta">Personal project · Data storytelling · 2026</p>
+                        <h3><a href="pantry-notes.html">Making everyday waste visible <span aria-hidden="true">↗</span></a></h3>
+                        <p>A small data journal exploring what gets forgotten in the fridge.</p>
+                    </article>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-row">
+                <span>Fieldnotes Student · A portfolio in progress.</span>
+                <span>Template by <a href="https://colorlib.com/" target="_blank" rel="noopener">Colorlib</a></span>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
